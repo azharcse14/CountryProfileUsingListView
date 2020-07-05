@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CountryProfileUsingListView</string>
+
+
+    <string-array name="country_names">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Maldivs</item>
+        <item>Srilonka</item>
+        <item>Afganistan</item>
+        <item>Cina</item>
+        <item>Hongkong</item>
+        <item>Saudi Arab</item>
+        <item>Rusia</item>
+        <item>Turkey</item>
+        <item>Palistain</item>
+        <item>England</item>
+    </string-array>
+
+    <string name="details">
+        1. About the course \n \n
+        Welcome to the Kotlin bootcamp for programmers. In this course, you learn the basics of Kotlin and the benefits of using Kotlin as you create various small programs in IntelliJ IDEA. /n
+
+        Google officially supports Kotlin for developing Android apps, as announced in the Android Developers Blog. Kotlin is a mature programming language that\'s interoperable with the Java programming language. You can use Kotlin to write robust, concise, readable code./n
+        The course materials include course codelabs with suggested homework assignments.\n
+        Prerequisites \n
+        Familiarity with the basics of a modern, object-oriented, statically typed programming language such as the Java programming language or C# /n
+        Ability to program with classes, methods, and exception handling in at least one language \n
+        Familiarity with an IDE such as IntelliJ IDEA, Android Studio, Eclipse, or Visual Studio \n
+        This course content is a prerequisite of the Android Kotlin Fundamentals course. \n
+
+        Note: Because of the current limitations of codelabs, the quizzes in these codelabs are not interactive.
+
+    </string>
+</resources>
